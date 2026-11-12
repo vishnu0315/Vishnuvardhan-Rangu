@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Vishnuvardhan<br><br>🎓 B.Tech graduate specializing in Artificial Intelligence and Machine Learning (2025)<br><br>💡 Passionate about building real-world AI solutions using Machine Learning, Data Science, and Generative AI.<br><br>🚀 Projects<br><br>
+Hi there 👋 I'm Vishnuvardhan<br><br>🎓 B.Tech graduate specializing in Artificial Intelligence and Machine Learning (2025)<br><br>💡 Passionate about building real-world AI solutions using Machine Learning, Data Science, and Generative AI.<br><br>🚀 Projects<br><br> LINK : https://github.com/repos<br>
  
 🔹 Obstructive Sleep Apnea Prediction<br><br>   LINK : https://github.com/vishnu0315/Obstructive-sleep-Apnea-Prediction<br>Summary: Used facial depth-map analysis and deep learning to predict obstructive sleep apnea risk in participants.
 • Preprocessed depth-map inputs and designed augmentation pipeline to increase training variability.<br>
