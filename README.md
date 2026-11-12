@@ -1,13 +1,13 @@
 # 💫 About Me:
 Hi there 👋 I'm Vishnuvardhan<br><br>🎓 B.Tech graduate specializing in Artificial Intelligence and Machine Learning (2025)<br><br>💡 Passionate about building real-world AI solutions using Machine Learning, Data Science, and Generative AI.<br><br>🚀 Projects<br><br>
  
-🔹 Obstructive Sleep Apnea Prediction<br><br>   LINK https://github.com/vishnu0315/Obstructive-sleep-Apnea-Prediction<br>Summary: Used facial depth-map analysis and deep learning to predict obstructive sleep apnea risk in participants.
+🔹 Obstructive Sleep Apnea Prediction<br><br>   LINK : https://github.com/vishnu0315/Obstructive-sleep-Apnea-Prediction<br>Summary: Used facial depth-map analysis and deep learning to predict obstructive sleep apnea risk in participants.
 • Preprocessed depth-map inputs and designed augmentation pipeline to increase training variability.<br>
 • Implemented a compact CNN, trained end-to-end, and produced inference script + model checkpoint for demo.<br>
 • Published code and usage instructions on GitHub and prepared a one-page demo for the event.<br>
 • My contributions (what I personally did): full-stack model development — preprocessing, architecture design, training, evaluation, and repo documentation.<br>
 
- 🔹 Deep Learning for Detecting Satellite Image Changes<br><br>Summary: Automated satellite-image change detection for border-security use-cases using CNN-based models and a lightweight inference dashboard.<br>
+ 🔹 Deep Learning for Detecting Satellite Image Changes<br><br>      LINK: https://github.com/vishnu0315/Deep-Learning-for-Detecting-Satellite-Changes-in-IBSA<br>Summary: Automated satellite-image change detection for border-security use-cases using CNN-based models and a lightweight inference dashboard.<br>
 • Implemented dataset pipeline: tile generation, geospatial resampling, normalization, and label alignment for image-pair training.<br>
 • Developed and trained CNN change-detection model; applied transfer learning and data augmentation to improve generalization.<br>
 • My contributions (what I personally did): dataset preprocessing scripts, model training & hyperparameter tuning, evaluation & validation pipeline, and dashboard integration.
