@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hi there 👋 I'm Vishnuvardhan<br><br>🎓 B.Tech graduate specializing in Artificial Intelligence and Machine Learning (2025)<br><br>💡 Passionate about building real-world AI solutions using Machine Learning, Data Science, and Generative AI.<br><br>🚀 Projects<br><br>
 
-🔹 AI Trading Assistant<br><br>Built a multi-market trading system supporting stocks, forex, and crypto<br>Implemented technical indicators (RSI, SMA, EMA, MACD)<br>Developed interactive candlestick dashboards using Streamlit & Plotly<br>🔹 AI Resume Analyzer<br><br>Developed NLP-based system to evaluate resumes using cosine similarity<br>Implemented text extraction and vectorization for relevance matching<br>Built interactive Streamlit interface<br>
+🔹 AI Trading Assistant<br><br>Built a multi-market trading system supporting stocks, forex, and crypto<br>Implemented technical indicators (RSI, SMA, EMA, MACD)<br>Developed interactive candlestick dashboards using Streamlit & Plotly<br>
+ 🔹 AI Resume Analyzer<br><br>Developed NLP-based system to evaluate resumes using cosine similarity<br>Implemented text extraction and vectorization for relevance matching<br>Built interactive Streamlit interface<br>
 
 🔹 LLM Chatbot with RAG<br><br>Built document-based chatbot using LangChain and OpenAI APIs<br>Enabled semantic search for context-aware responses<br>Improved response quality using prompt engineering<br><br>🛠️ Skills<br><br>AI/ML: Generative AI, LLMs, RAG, NLP, Prompt Engineering<br>Frameworks: LangChain, LlamaIndex, Streamlit<br>Databases: FAISS, Pinecone, ChromaDB<br>Backend: FastAPI, REST APIs, Docker<br>Programming: Python, Pandas, NumPy<br>Tools: Git, Cloud Deployment<br>
 
